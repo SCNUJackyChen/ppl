@@ -1,3 +1,7 @@
 new file
 new file
+<<<<<<< HEAD
 new file
+=======
+123
+>>>>>>> 7dd38b189f0f7481f33bb3e201dd2ec497869868
